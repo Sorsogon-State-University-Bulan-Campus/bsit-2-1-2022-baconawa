@@ -10,7 +10,7 @@ This is built to give information to the people about Vangelyn's Food Restaurant
 
 
 ## 💻Author 
-- [****Vangelyn Baconawa @the-name-romel****](https://github.com/VangelynBaconawa)
+- [****Vangelyn Baconawa @vangelyn Baconawa****](https://github.com/VangelynBaconawa)
 
 
 
